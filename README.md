@@ -6,6 +6,6 @@ Whatsapp ස්පෑම් යවන්න පුළුවන්
 <br>#pkg install python </br>
 <br>#pkg install git </br>
 <br>#git clone https://github.com/NetworkChukka/whatsapp-hack.git</br>
-<br>cd whatsapp-hack</br>
+<br>#cd whatsapp-hack</br>
 <marquee> WAIT 10 Mnitues</marquee>
-<br>python whatsapp.py</br>
+<br>#python whatsapp.py</br>
