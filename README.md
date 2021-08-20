@@ -7,5 +7,6 @@ Whatsapp ස්පෑම් යවන්න පුළුවන්
 <br>#pkg install git </br>
 <br>#git clone https://github.com/NetworkChukka/whatsapp-hack.git</br>
 <br>#cd whatsapp-hack</br>
-<br><b> WAIT 10 Mnitues</b></br>
-<br>#python Whatspam.py</br>
+
+<br>#python Whatspam.py</br><br><b> WAIT 10 Mnitues</b></br>
+
